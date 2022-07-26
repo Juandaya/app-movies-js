@@ -1,5 +1,7 @@
 opciones = [{
     uno: (u),
-    dos: (d)
+    dos: (d),
+    cinco: (c),
+    seis: (s)
 
 }]
