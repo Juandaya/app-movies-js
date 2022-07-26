@@ -64,7 +64,7 @@ const moviesDH = {
     }
 }
 
-//moviesDH.listMovies();
+moviesDH.listMovies();
 //console.log(moviesDH.searchMovies(04));
 //console.log(moviesDH.searchMoviesByGenre("Accion"));
 //console.log(moviesDH.totalPrice());
